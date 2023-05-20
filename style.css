@@ -1,0 +1,81 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    height: 40px;
+    background-color: aquamarine;
+}
+
+main {
+    background-color: aquamarine;
+}
+
+footer {
+    background-color: orange;
+}
+
+nav a {
+    color: green;
+    background-color: orange;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+nav a:hover {
+    color: black;
+}
+
+.link-header {
+    color: green;
+    background-color: orange;
+    font-size: 20px;
+    text-decoration: none;
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+}
+
+.link-header:hover {
+    color: black;
+}
+
+footer img {
+    width: 42px; height: 42px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h1:hover {
+    background: linear-gradient(to right, lightgreen, white, gold);
+    border-radius: 15px;
+}
+
+ul {
+    font-size: 20px;
+    color: green;
+    text-align: center;
+    list-style-type: none;
+}
+
+ul:hover {
+    color: black;
+}
+
+h1 {
+    color: green;
+}
+
+.photo1 {
+    text-align: center;
+}
+
+.text-sites {
+    font-size: 20px;
+}
